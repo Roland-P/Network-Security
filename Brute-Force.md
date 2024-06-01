@@ -3,7 +3,7 @@ For this simulation, we will perform a simple common type of attack called a Bru
 
 Set up SSH on Windows 10
 Perform a Brute Force Attack from Kali Linux
-Monitor Traffic Using pfSense, nmap
+Monitor Traffic Using pfSense, wireshark
 Document the Attack and Results
 
 ## Network Setup
@@ -60,7 +60,7 @@ Simulate a brute force attack on an SSH service running on Windows 10 and monito
     ```
 <img width="926" alt="image" src="https://github.com/Roland310/Network-Security/assets/171095729/2f778bed-1927-45b0-a3d0-090ddd951c95">
 
-## Step 3: Monitoring Traffic with pfSense and nmap
+## Step 3: Monitoring Traffic with pfSense and wireshark
 
 1. **Set up pfSense**: Login to the Web GUI
    - Enabled logging for firewall and system categories.
